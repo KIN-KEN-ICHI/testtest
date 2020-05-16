@@ -41,7 +41,7 @@ publishDir = "docs"
 
     [languages.en.params.logo]
           logoText = "hello friend ng"
-	        logoHomeLink = "/testtest"
+	        logoHomeLink = "/"
 		    # or
 		        #
 			    # path = "/img/your-example-logo.svg"
